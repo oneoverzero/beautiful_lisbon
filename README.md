@@ -19,6 +19,7 @@ This page is a tourist guide to the beautiful city of Lisbon. It's on GitHub bec
 
 * [MUDE - Museu do Design e Moda](http://www.mude.pt)
 * [Museu da Electricidade](https://foursquare.com/visitanteriso)
+* Museu de Arte Antiga
 
 ## Parks and nature
 * [Jardim da Fundação Calouste Gulbenkian](https://foursquare.com/v/jardim-da-funda%C3%A7%C3%A3o-calouste-gulbenkian/4bd836cc35aad13ad54c90f3?ref=nuggets)
@@ -36,3 +37,26 @@ This page is a tourist guide to the beautiful city of Lisbon. It's on GitHub bec
 ## Shops and commerce in general
 
 * [LX Factory](https://foursquare.com/v/lx-factory/4b3cda52f964a520428825e3?ref=nuggets)
+
+## Places to eat in Santos / Janelas Verdes
+
+- himchuli (Nepal, pampulha)
+- sakura (Japonese, infante santo)
+- zuari (Goan, joão da mata)
+- tachadas (Português, esperança)
+- taberna ideal (neo-Português, esperança)
+- lumbini (Nepal, esperança)
+- Cafetaria do museu de arte antiga (refeitório artsy, janelas verdes)
+- o palácio (cervejaria/ marisqueira, alcãntara)
+- o david (cervejaria, alcantara)
+- dervixe (turco, 24 de julho)
+- come prima (Italian/Indian, rua do olival)
+- caldo verde (Português, esperança)
+- lumar (luso-brazilian, rua do conde)
+- casa de goa (goês, necessidades)
+- ritalinos (Português, possolo/ necessidades)
+- la siesta (Mexican, cais da rocha)
+- ilhas gregas (Greek, rua das trinas)
+- toscana (Italian, janelas verdes)
+- 31 da armada (Português, praça da armada)
+- picanha (Português, janelas verdes)
