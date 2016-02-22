@@ -60,3 +60,4 @@ This page is a tourist guide to the beautiful city of Lisbon. It's on GitHub bec
 - toscana (Italian, janelas verdes)
 - 31 da armada (Português, praça da armada)
 - picanha (Português, janelas verdes)
+- Toscana Grill
