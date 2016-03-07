@@ -14,8 +14,13 @@ This page is a tourist guide to the beautiful city of Lisbon. It's on GitHub bec
 ## Museums and exhibitions
 
 * [MUDE - Museu do Design e Moda][1]
+* [Calouste Gulbenkian Museum] [8]
+* [Berardo Museum] [9]
 
 ## Parks and nature
+
+* [Monsanto Forest Park][7]
+
 ## Restaurants and bars
 
 * [À Margem][2]
@@ -29,3 +34,6 @@ This page is a tourist guide to the beautiful city of Lisbon. It's on GitHub bec
 [4]: https://en.wikipedia.org/wiki/S%C3%A3o_Jorge_Castle
 [5]: https://pt.wikipedia.org/wiki/Elevador_da_Bica
 [6]: https://www.facebook.com/mercadodecampodeourique
+[7]: https://en.wikipedia.org/wiki/Monsanto_Forest_Park
+[8]:http://www.gulbenkian.pt/Institucional/pt/Homepage
+[9]: http://www.museuberardo.pt/
