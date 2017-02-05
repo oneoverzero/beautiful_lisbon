@@ -1,8 +1,8 @@
+
 # Beautiful Lisbon
 
-This page is a tourist guide to the beautiful city of Lisbon. It's on GitHub because, well, geeks. Feel free to contribute by forking the repository and submitting pull requests, or editing this file
- directly on GitHub.
- 
+This page is a tourist guide to the beautiful city of Lisbon. It's on GitHub because, well, geeks. Feel free to contribute by forking the repository and submitting pull requests, or editing this file directly on GitHub.
+
 ![Lisbon](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/CastleSaintGeorge.jpg/2880px-CastleSaintGeorge.jpg)
 
 ## Monuments and scenic views
@@ -29,10 +29,13 @@ This page is a tourist guide to the beautiful city of Lisbon. It's on GitHub bec
 
 * [À Margem](http://www.lifecooler.com/artigo/comer/a-margem/364551/)
 * [Tasquinhas](https://www.facebook.com/mercadodecampodeourique)
+* Caso SÉrio
 * [Cruzes Credo Café](https://foursquare.com/v/cruzes-credo-caf%C3%A9/4c840b0c2f1c236af2924843?ref=nuggets)
+* Hennessy's Irish Pub
+* Tabacaria
+* Pistola y Corazón
 * [Primeiro Andar](https://foursquare.com/v/primeiro-andar/50147499e4b07f20b3668adf?ref=nuggets)
-
-
+* Wanli
 
 ## Shops and commerce in general
 
@@ -40,24 +43,24 @@ This page is a tourist guide to the beautiful city of Lisbon. It's on GitHub bec
 
 ## Places to eat in Santos / Janelas Verdes
 
-- himchuli (Nepal, pampulha)
-- sakura (Japonese, infante santo)
-- zuari (Goan, joão da mata)
-- tachadas (Português, esperança)
-- taberna ideal (neo-Português, esperança)
-- lumbini (Nepal, esperança)
-- Cafetaria do museu de arte antiga (refeitório artsy, janelas verdes)
-- o palácio (cervejaria/ marisqueira, alcãntara)
-- o david (cervejaria, alcantara)
-- dervixe (turco, 24 de julho)
-- come prima (Italian/Indian, rua do olival)
-- caldo verde (Português, esperança)
-- lumar (luso-brazilian, rua do conde)
-- casa de goa (goês, necessidades)
-- ritalinos (Português, possolo/ necessidades)
-- la siesta (Mexican, cais da rocha)
-- ilhas gregas (Greek, rua das trinas)
-- toscana (Italian, janelas verdes)
-- 31 da armada (Português, praça da armada)
-- picanha (Português, janelas verdes)
+- 31 Da Armada (português, Praça Da Armada)
+- Cafetaria Do Museu De Arte Antiga (refeitório Artsy, Janelas Verdes)
+- Caldo Verde (português, Esperança)
+- Casa De Goa (goês, Necessidades)
+- Come Prima (italian/indian, Rua Do Olival)
+- David, O (cervejaria, Alcantara)
+- Dervixe (turco, 24 De Julho)
+- Himchuli (Nepal, pampulha)
+- Ilhas Gregas (greek, Rua Das Trinas)
+- La Siesta (mexican, Cais Da Rocha)
+- Lumar (luso-brazilian, Rua Do Conde)
+- Lumbini (nepal, Esperança)
+- Palácio, O (cervejaria/ Marisqueira, Alcãntara)
+- Picanha (português, Janelas Verdes)
+- Ritalinos (português, Possolo/ Necessidades)
+- Sakura (japonese, Infante Santo)
+- Taberna Ideal (neo-português, Esperança)
+- Tachadas (português, Esperança)
+- Toscana (italian, Janelas Verdes)
 - Toscana Grill
+- Zuari (goan, João Da Mata)
