@@ -19,7 +19,7 @@ This page is a tourist guide to the beautiful city of Lisbon. It's on GitHub bec
 
 * [MUDE - Museu do Design e Moda](http://www.mude.pt)
 * [Museu da Electricidade](https://foursquare.com/visitanteriso)
-* Museu de Arte Antiga
+* [Museu de Arte Antiga] (http://www.museudearteantiga.pt)
 
 ## Parks and nature
 * [Jardim da Fundação Calouste Gulbenkian](https://foursquare.com/v/jardim-da-funda%C3%A7%C3%A3o-calouste-gulbenkian/4bd836cc35aad13ad54c90f3?ref=nuggets)
@@ -27,40 +27,56 @@ This page is a tourist guide to the beautiful city of Lisbon. It's on GitHub bec
 
 ## Restaurants and bars
 
-* [À Margem](http://www.lifecooler.com/artigo/comer/a-margem/364551/)
-* [Tasquinhas](https://www.facebook.com/mercadodecampodeourique)
-* Caso SÉrio
+### Alfama / Sé / Castelo / Santa Apolónia
+* [Caso SÉrio] (http://lifecooler.com/artigo/comer/caso-serio/436239)
 * [Cruzes Credo Café](https://foursquare.com/v/cruzes-credo-caf%C3%A9/4c840b0c2f1c236af2924843?ref=nuggets)
-* Hennessy's Irish Pub
-* Tabacaria
-* Pistola y Corazón
+
+### Baixa / Restauradores
 * [Primeiro Andar](https://foursquare.com/v/primeiro-andar/50147499e4b07f20b3668adf?ref=nuggets)
-* Wanli
+* Cervejaria Ruca
+* Hard Rock Cafe Lisbon
+
+### Belém
+* [À Margem](http://www.lifecooler.com/artigo/comer/a-margem/364551/)
+
+### Cais do Sodré / Rua de São Paulo
+* Hennessy's Irish Pub
+* O'Gillins Irish Pub
+* [Tabacaria] (https://www.tripadvisor.com.br/Restaurant_Review-g189158-d10292976-Reviews-A_Tabacaria-Lisbon_Lisbon_District_Central_Portugal.html)
+* [Pistola y Corazón] (https://www.tripadvisor.com/Restaurant_Review-g189158-d7312425-Reviews-Pistola_y_Corazon-Lisbon_Lisbon_District_Central_Portugal.html)
+* [Wanli] (https://www.tripadvisor.com/Restaurant_Review-g189158-d3898048-Reviews-Wanli-Lisbon_Lisbon_District_Central_Portugal.html)
+
+### Campo de Ourique
+* [Tasquinhas](https://www.facebook.com/mercadodecampodeourique)
+
+### Chiado
+* nood
+* Café Royale
+
+### Santos / Janelas Verdes
+
+* 31 Da Armada (português, Praça Da Armada)
+* Cafetaria Do Museu De Arte Antiga (refeitório Artsy, Janelas Verdes)
+* Caldo Verde (português, Esperança)
+* Casa De Goa (goês, Necessidades)
+* Come Prima (italian/indian, Rua Do Olival)
+* David, O (cervejaria, Alcantara)
+* Dervixe (turco, 24 De Julho)
+* Himchuli (Nepal, pampulha)
+* Ilhas Gregas (greek, Rua Das Trinas)
+* La Siesta (mexican, Cais Da Rocha)
+* Lumar (luso-brazilian, Rua Do Conde)
+* Lumbini (nepal, Esperança)
+* Palácio, O (cervejaria/ Marisqueira, Alcãntara)
+* Picanha (português, Janelas Verdes)
+* Ritalinos (português, Possolo/ Necessidades)
+* Sakura (japonese, Infante Santo)
+* Taberna Ideal (neo-português, Esperança)
+* Tachadas (português, Esperança)
+* Toscana (italian, Janelas Verdes)
+* Toscana Grill
+* Zuari (goan, João Da Mata)
 
 ## Shops and commerce in general
 
 * [LX Factory](https://foursquare.com/v/lx-factory/4b3cda52f964a520428825e3?ref=nuggets)
-
-## Places to eat in Santos / Janelas Verdes
-
-- 31 Da Armada (português, Praça Da Armada)
-- Cafetaria Do Museu De Arte Antiga (refeitório Artsy, Janelas Verdes)
-- Caldo Verde (português, Esperança)
-- Casa De Goa (goês, Necessidades)
-- Come Prima (italian/indian, Rua Do Olival)
-- David, O (cervejaria, Alcantara)
-- Dervixe (turco, 24 De Julho)
-- Himchuli (Nepal, pampulha)
-- Ilhas Gregas (greek, Rua Das Trinas)
-- La Siesta (mexican, Cais Da Rocha)
-- Lumar (luso-brazilian, Rua Do Conde)
-- Lumbini (nepal, Esperança)
-- Palácio, O (cervejaria/ Marisqueira, Alcãntara)
-- Picanha (português, Janelas Verdes)
-- Ritalinos (português, Possolo/ Necessidades)
-- Sakura (japonese, Infante Santo)
-- Taberna Ideal (neo-português, Esperança)
-- Tachadas (português, Esperança)
-- Toscana (italian, Janelas Verdes)
-- Toscana Grill
-- Zuari (goan, João Da Mata)
