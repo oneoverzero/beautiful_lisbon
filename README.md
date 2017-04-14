@@ -19,7 +19,7 @@ This page is a tourist guide to the beautiful city of Lisbon. It's on GitHub bec
 
 * [MUDE - Museu do Design e Moda](http://www.mude.pt)
 * [Museu da Electricidade](https://foursquare.com/visitanteriso)
-* [Museu de Arte Antiga] (http://www.museudearteantiga.pt)
+* [Museu de Arte Antiga](http://www.museudearteantiga.pt)
 
 ## Parks and nature
 * [Jardim da Fundação Calouste Gulbenkian](https://foursquare.com/v/jardim-da-funda%C3%A7%C3%A3o-calouste-gulbenkian/4bd836cc35aad13ad54c90f3?ref=nuggets)
@@ -28,7 +28,7 @@ This page is a tourist guide to the beautiful city of Lisbon. It's on GitHub bec
 ## Restaurants and bars
 
 ### Alfama / Sé / Castelo / Santa Apolónia
-* [Caso SÉrio] (http://lifecooler.com/artigo/comer/caso-serio/436239)
+* [Caso SÉrio](http://lifecooler.com/artigo/comer/caso-serio/436239)
 * [Cruzes Credo Café](https://foursquare.com/v/cruzes-credo-caf%C3%A9/4c840b0c2f1c236af2924843?ref=nuggets)
 
 ### Baixa / Restauradores
@@ -42,9 +42,9 @@ This page is a tourist guide to the beautiful city of Lisbon. It's on GitHub bec
 ### Cais do Sodré / Rua de São Paulo
 * Hennessy's Irish Pub
 * O'Gillins Irish Pub
-* [Tabacaria] (https://www.tripadvisor.com.br/Restaurant_Review-g189158-d10292976-Reviews-A_Tabacaria-Lisbon_Lisbon_District_Central_Portugal.html)
-* [Pistola y Corazón] (https://www.tripadvisor.com/Restaurant_Review-g189158-d7312425-Reviews-Pistola_y_Corazon-Lisbon_Lisbon_District_Central_Portugal.html)
-* [Wanli] (https://www.tripadvisor.com/Restaurant_Review-g189158-d3898048-Reviews-Wanli-Lisbon_Lisbon_District_Central_Portugal.html)
+* [Tabacaria](https://www.tripadvisor.com.br/Restaurant_Review-g189158-d10292976-Reviews-A_Tabacaria-Lisbon_Lisbon_District_Central_Portugal.html)
+* [Pistola y Corazón](https://www.tripadvisor.com/Restaurant_Review-g189158-d7312425-Reviews-Pistola_y_Corazon-Lisbon_Lisbon_District_Central_Portugal.html)
+* [Wanli](https://www.tripadvisor.com/Restaurant_Review-g189158-d3898048-Reviews-Wanli-Lisbon_Lisbon_District_Central_Portugal.html)
 
 ### Campo de Ourique
 * [Tasquinhas](https://www.facebook.com/mercadodecampodeourique)
@@ -80,3 +80,41 @@ This page is a tourist guide to the beautiful city of Lisbon. It's on GitHub bec
 ## Shops and commerce in general
 
 * [LX Factory](https://foursquare.com/v/lx-factory/4b3cda52f964a520428825e3?ref=nuggets)
+
+## Places to work
+
+### Lx Factory
+- Café na Fábrica,
+- Slow coffee, 
+- Ler devagar
+
+### Alfama 
+- Cruzes credo
+- Pois Café
+- Caso sério
+
+### Almirante Reis
+- Brick café
+
+### Avenidas Novas
+- Strudel
+- Fábrica de sabores 
+- Padaria do bairro nas avenidas novas; 
+
+### Cais do Sodré
+- Café do chefe Kiko; Dentro da sede da EDP.
+
+### Castelo
+- Café da garagem, na rua da costa do castelo; 
+
+### Estrela
+- No jardim da estrela há um café no centro ao pé do lago; 
+
+### Graça
+- Botequim da graça ao pé do miradouro; 
+
+### Príncipe Real
+- Copenhagen Coffee Lab perto da praça das flores;
+
+### São João de Deus
+- Leitaria da Quinta do Paço
