@@ -80,3 +80,41 @@ This page is a tourist guide to the beautiful city of Lisbon. It's on GitHub bec
 ## Shops and commerce in general
 
 * [LX Factory](https://foursquare.com/v/lx-factory/4b3cda52f964a520428825e3?ref=nuggets)
+
+## Places to work
+
+### Lx Factory
+- Café na Fábrica,
+- Slow coffee, 
+- Ler devagar
+
+### Alfama 
+- Cruzes credo
+- Pois Café
+- Caso sério
+
+### Almirante Reis
+- Brick café
+
+### Avenidas Novas
+- Strudel
+- Fábrica de sabores 
+- Padaria do bairro nas avenidas novas; 
+
+### Cais do Sodré
+- Café do chefe Kiko; Dentro da sede da EDP.
+
+### Castelo
+- Café da garagem, na rua da costa do castelo; 
+
+### Estrela
+- No jardim da estrela há um café no centro ao pé do lago; 
+
+### Graça
+- Botequim da graça ao pé do miradouro; 
+
+### Príncipe Real
+- Copenhagen Coffee Lab perto da praça das flores;
+
+### São João de Deus
+- Leitaria da Quinta do Paço
