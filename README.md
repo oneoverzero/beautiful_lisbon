@@ -118,3 +118,24 @@ This page is a tourist guide to the beautiful city of Lisbon. It's on GitHub bec
 
 ### São João de Deus
 - Leitaria da Quinta do Paço
+
+# Wifi Coffee Shops
+
+Na lx factory tens vários cafés com Wi-Fi e onde o movimento permite que estejas lá uma manhã ou tarde a estudar. Café na Fábrica, Slow coffe, ler devagar. Em qualquer caso, evita sempre a hora de almoço. Nessa altura os cafés fazem a maior fatia de negócio e estarás a ocupar a mesa onde podiam estar duas pessoas. 
+
+Outros locais: 
+
+Brick café perto da almirante reis;
+
+Strudel e Fabrica de sabores perto da Defensores de Chaves;
+
+Padaria do bairro nas avenidas novas;
+
+Cruzes credo, ao pé da sé;
+
+Leitaria, na avenida João XXI
+
+Copenhagen coffee lab perto da praça das flores;
+
+Botequim da graça ao pé do miradouro;
+
