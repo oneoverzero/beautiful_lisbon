@@ -28,7 +28,7 @@ This page is a tourist guide to the beautiful city of Lisbon. It's on GitHub bec
 ## Restaurants and bars
 
 ### Alfama / Sé / Castelo / Santa Apolónia
-* [Caso Sério] (http://lifecooler.com/artigo/comer/caso-serio/436239)
+* [Caso Sério](http://lifecooler.com/artigo/comer/caso-serio/436239)
 * [Cruzes Credo Café](https://foursquare.com/v/cruzes-credo-caf%C3%A9/4c840b0c2f1c236af2924843?ref=nuggets)
 
 ### Baixa / Restauradores
