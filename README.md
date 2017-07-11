@@ -47,8 +47,8 @@ This page is a tourist guide to the beautiful city of Lisbon. It's on GitHub bec
 * [À Margem](http://www.lifecooler.com/artigo/comer/a-margem/364551/)
 
 ### Cais do Sodré / Rua de São Paulo
-* Hennessy's Irish Pub
-* O'Gillins Irish Pub
+* [Hennessy's Irish Pub](https://www.zomato.com/grande-lisboa/hennessys-irish-pub-cais-do-sodr%C3%A9-lisboa)
+* [O'Gillins Irish Pub](https://www.zomato.com/grande-lisboa/ogilins-irish-pub-cais-do-sodr%C3%A9-lisboa)
 * [Tabacaria](https://www.tripadvisor.com.br/Restaurant_Review-g189158-d10292976-Reviews-A_Tabacaria-Lisbon_Lisbon_District_Central_Portugal.html)
 * [Pistola y Corazón](https://www.tripadvisor.com/Restaurant_Review-g189158-d7312425-Reviews-Pistola_y_Corazon-Lisbon_Lisbon_District_Central_Portugal.html)
 * [Wanli](https://www.tripadvisor.com/Restaurant_Review-g189158-d3898048-Reviews-Wanli-Lisbon_Lisbon_District_Central_Portugal.html)
@@ -57,29 +57,28 @@ This page is a tourist guide to the beautiful city of Lisbon. It's on GitHub bec
 * [Tasquinhas](https://www.facebook.com/mercadodecampodeourique)
 
 ### Chiado
-* nood
-* Café Royale
+* [Nood](https://www.zomato.com/grande-lisboa/nood-chiado-lisboa)
+* [Café Royale](https://www.zomato.com/grande-lisboa/royale-caf%C3%A9-chiado-lisboa)
 
 ### Santos / Janelas Verdes
 
-* 31 Da Armada (português, Praça Da Armada)
+* [31 Da Armada](https://www.zomato.com/grande-lisboa/31-da-armada-alc%C3%A2ntara-lisboa) (Portuguese, Praça Da Armada)
 * Cafetaria Do Museu De Arte Antiga (refeitório Artsy, Janelas Verdes)
-* Caldo Verde (português, Esperança)
+* Caldo Verde (Portuguese, Esperança)
 * Casa De Goa (goês, Necessidades)
 * Come Prima (italian/indian, Rua Do Olival)
 * David, O (cervejaria, Alcantara)
 * Dervixe (turco, 24 De Julho)
 * Himchuli (Nepal, pampulha)
-* Ilhas Gregas (greek, Rua Das Trinas)
-* La Siesta (mexican, Cais Da Rocha)
+* Ilhas Gregas (Greek, Rua Das Trinas)
 * Lumar (luso-brazilian, Rua Do Conde)
 * Lumbini (nepal, Esperança)
 * Palácio, O (cervejaria/ Marisqueira, Alcãntara)
-* Picanha (português, Janelas Verdes)
-* Ritalinos (português, Possolo/ Necessidades)
+* Picanha (Portuguese, Janelas Verdes)
+* [Pistola y Corazón](https://www.zomato.com/grande-lisboa/pistola-y-coraz%C3%B3n-taqueria-cais-do-sodr%C3%A9-lisboa) (Mexican, Cais Do Sodré)
+* Ritalinos (Portuguese, Possolo/ Necessidades)
 * Sakura (japonese, Infante Santo)
-* Taberna Ideal (neo-português, Esperança)
-* Tachadas (português, Esperança)
+* Tachadas (Portuguese, Esperança)
 * Toscana (italian, Janelas Verdes)
 * Toscana Grill
 * Zuari (goan, João Da Mata)
@@ -91,58 +90,60 @@ This page is a tourist guide to the beautiful city of Lisbon. It's on GitHub bec
 ## Places to work
 
 ### Lx Factory
-- Café na Fábrica,
-- Slow coffee, 
-- Ler devagar
+- Café na Fábrica, coffee shop
+- Slow coffee, coffee shop
+- Ler devagar, coffee shop
 
 ### Alfama 
-- Cruzes credo
-- Pois Café
-- Caso sério
+- Cruzes Credo, coffee shop
+- Pois Café, coffee shop
+- Caso SÉrio, coffee shop
 
 ### Almirante Reis
-- Brick café
+
+- Brick café, coffee shop
 
 ### Avenidas Novas
-- Strudel
-- Fábrica de sabores 
+
+- Strudel, bakery
+- Fábrica de sabores, bakery
 - Padaria do bairro nas avenidas novas; 
 
 ### Cais do Sodré
-- Café do chefe Kiko; Dentro da sede da EDP.
+- Café do chefe Kiko; Inside the EDP head quarters.
 
 ### Castelo
-- Café da garagem, na rua da costa do castelo; 
+- [Café da Garagem](https://www.zomato.com/grande-lisboa/caf%C3%A9-da-garagem-castelo-lisboa), na rua da costa do castelo; 
 
 ### Estrela
-- No jardim da estrela há um café no centro ao pé do lago; 
+- Inside the garden, there is a nice coffee shop / snack bar near the lake; 
 
 ### Graça
-- Botequim da graça ao pé do miradouro; 
+- [Botequim da Graça](https://www.zomato.com/grande-lisboa/botequim-gra%C3%A7a-lisboa) ao pé do miradouro; 
 
 ### Príncipe Real
-- Copenhagen Coffee Lab perto da praça das flores;
+- [Copenhagen Coffee Lab](https://www.zomato.com/grande-lisboa/copenhagen-coffee-lab-pr%C3%ADncipe-real-lisboa) Near Praça das Flores;
 
 ### São João de Deus
 - Leitaria da Quinta do Paço
 
 # Wifi Coffee Shops
 
-Na lx factory tens vários cafés com Wi-Fi e onde o movimento permite que estejas lá uma manhã ou tarde a estudar. Café na Fábrica, Slow coffe, ler devagar. Em qualquer caso, evita sempre a hora de almoço. Nessa altura os cafés fazem a maior fatia de negócio e estarás a ocupar a mesa onde podiam estar duas pessoas. 
+At LX Factory there are several coffee shops with wi-fi and they are not so busy as to be  bothered by you staying there working or studying.
 
-Outros locais: 
+* Café na Fábrica
+* Slow Coffee
+* Ler Devagar
 
-Brick café perto da almirante reis;
+Avoid the meal times, as that is when they do most of their profit.
 
-Strudel e Fabrica de sabores perto da Defensores de Chaves;
+Places outside of LX Factory: 
 
-Padaria do bairro nas avenidas novas;
-
-Cruzes credo, ao pé da sé;
-
-Leitaria, na avenida João XXI
-
-Copenhagen coffee lab perto da praça das flores;
-
-Botequim da graça ao pé do miradouro;
-
+* Brick café 
+* Strudel 
+* Fabrica de Sabores near Avenida Defensores de Chaves;
+* Padaria do Bairro in Avenidas Novas;
+* Cruzes Credo
+* Leitaria, Avenida João XXI
+* Copenhagen Coffee Lab perto da praça das flores;
+* Botequim da Graça 
