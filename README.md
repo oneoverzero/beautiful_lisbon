@@ -1,3 +1,10 @@
++++
+categories = ["Lisbon"]
+layout = "post"
+date = "2017-02-05T16:02:56Z"
+featured_image = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/CastleSaintGeorge.jpg/2880px-CastleSaintGeorge.jpg"
+title = "Beautiful Lisbon"
++++
 
 # Beautiful Lisbon
 
