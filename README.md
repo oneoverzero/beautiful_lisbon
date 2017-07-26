@@ -12,7 +12,7 @@ This page is a tourist guide to the beautiful city of Lisbon. [It's on GitHub be
 
 ![Lisbon](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/CastleSaintGeorge.jpg/2880px-CastleSaintGeorge.jpg)
 
-<!-- MarkdownTOC autolink="false" autoanchor="true" -->
+
 
 - Monuments and scenic views
 - Museums and exhibitions
@@ -22,12 +22,12 @@ This page is a tourist guide to the beautiful city of Lisbon. [It's on GitHub be
 - Places to work
 - Wifi Coffee Shops
 
-<!-- /MarkdownTOC -->
 
 
 
 
-<a name="None"></a>
+
+
 ## Monuments and scenic views
 
 * [The Nations Park Gondola Lift](http://www.telecabinelisboa.pt/epages/2060-120119.sf/en_GB/?ObjectPath=/Shops/2060-120119/Categories/Sobre_Telecabine_Lisboa) (Cable Car)
@@ -38,19 +38,19 @@ This page is a tourist guide to the beautiful city of Lisbon. [It's on GitHub be
 * [Miradouro da Graça](https://foursquare.com/v/miradouro-da-gra%C3%A7a/4c07f87affb8c9b691826761?ref=nuggets)
 * [Arco da Rua Augusta](https://foursquare.com/v/arco-da-rua-augusta/4b0588a2f964a52006d122e3?ref=nuggets)
 
-<a name="None"></a>
+
 ## Museums and exhibitions
 
 * [MUDE - Museu do Design e Moda](http://www.mude.pt)
 * [Museu da Electricidade](https://foursquare.com/visitanteriso)
 * [Museu de Arte Antiga](http://www.museudearteantiga.pt)
 
-<a name="None"></a>
+
 ## Parks and nature
 * [Jardim da Fundação Calouste Gulbenkian](https://foursquare.com/v/jardim-da-funda%C3%A7%C3%A3o-calouste-gulbenkian/4bd836cc35aad13ad54c90f3?ref=nuggets)
 
 
-<a name="None"></a>
+
 ## Restaurants and bars
 
 ### Alfama / Sé / Castelo / Santa Apolónia
@@ -102,12 +102,12 @@ This page is a tourist guide to the beautiful city of Lisbon. [It's on GitHub be
 * Toscana Grill
 * Zuari (goan, João Da Mata)
 
-<a name="None"></a>
+
 ## Shops and commerce in general
 
 * [LX Factory](https://foursquare.com/v/lx-factory/4b3cda52f964a520428825e3?ref=nuggets)
 
-<a name="None"></a>
+
 ## Places to work
 
 ### Lx Factory
@@ -148,7 +148,7 @@ This page is a tourist guide to the beautiful city of Lisbon. [It's on GitHub be
 ### São João de Deus
 - Leitaria da Quinta do Paço
 
-<a name="None"></a>
+
 # Wifi Coffee Shops
 
 At LX Factory there are several coffee shops with wi-fi and they are not so busy as to be  bothered by you staying there working or studying.
