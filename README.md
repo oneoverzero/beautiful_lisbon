@@ -8,11 +8,26 @@ title = "Beautiful Lisbon"
 
 # Beautiful Lisbon
 
-This page is a tourist guide to the beautiful city of Lisbon. It's on GitHub because, well, geeks. Feel free to contribute by forking the repository and submitting pull requests, or editing this file directly on GitHub.
+This page is a tourist guide to the beautiful city of Lisbon. [It's on GitHub because, well, geeks](https://github.com/oneoverzero/beautiful_lisbon). Feel free to contribute by forking the repository and submitting pull requests, or editing this file directly on GitHub.
 
 ![Lisbon](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/CastleSaintGeorge.jpg/2880px-CastleSaintGeorge.jpg)
 
-<a name="monuments-and-scenic-views"></a>
+
+
+- Monuments and scenic views
+- Museums and exhibitions
+- Parks and nature
+- Restaurants and bars
+- Shops and commerce in general
+- Places to work
+- Wifi Coffee Shops
+
+
+
+
+
+
+
 ## Monuments and scenic views
 
 * [The Nations Park Gondola Lift](http://www.telecabinelisboa.pt/epages/2060-120119.sf/en_GB/?ObjectPath=/Shops/2060-120119/Categories/Sobre_Telecabine_Lisboa) (Cable Car)
@@ -23,29 +38,29 @@ This page is a tourist guide to the beautiful city of Lisbon. It's on GitHub bec
 * [Miradouro da Graça](https://foursquare.com/v/miradouro-da-gra%C3%A7a/4c07f87affb8c9b691826761?ref=nuggets)
 * [Arco da Rua Augusta](https://foursquare.com/v/arco-da-rua-augusta/4b0588a2f964a52006d122e3?ref=nuggets)
 
-<a name="museums-and-exhibitions"></a>
+
 ## Museums and exhibitions
 
 * [MUDE - Museu do Design e Moda](http://www.mude.pt)
 * [Museu da Electricidade](https://foursquare.com/visitanteriso)
 * [Museu de Arte Antiga](http://www.museudearteantiga.pt)
 
-<a name="parks-and-nature"></a>
+
 ## Parks and nature
 * [Jardim da Fundação Calouste Gulbenkian](https://foursquare.com/v/jardim-da-funda%C3%A7%C3%A3o-calouste-gulbenkian/4bd836cc35aad13ad54c90f3?ref=nuggets)
 
 
-<a name="restaurants-and-bars"></a>
+
 ## Restaurants and bars
 
 ### Alfama / Sé / Castelo / Santa Apolónia
 * [Caso SÉrio](http://lifecooler.com/artigo/comer/caso-serio/436239)
-* [Cruzes Credo Café](https://foursquare.com/v/cruzes-credo-caf%C3%A9/4c840b0c2f1c236af2924843?ref=nuggets)
+* [Cruzes Credo](https://www.zomato.com/pt/grande-lisboa/cruzes-credo-s%C3%A9-lisboa)
 
 ### Baixa / Restauradores
 * [Primeiro Andar](https://foursquare.com/v/primeiro-andar/50147499e4b07f20b3668adf?ref=nuggets)
-* Cervejaria Ruca
-* Hard Rock Cafe Lisbon
+* [Cervejaria Ruca](https://www.zomato.com/pt/grande-lisboa/ruca-baixa-lisboa)
+* [Hard Rock Cafe](https://www.zomato.com/pt/HardRockCafe-Lisboa)
 
 ### Belém
 * [À Margem](http://www.lifecooler.com/artigo/comer/a-margem/364551/)
@@ -87,27 +102,27 @@ This page is a tourist guide to the beautiful city of Lisbon. It's on GitHub bec
 * Toscana Grill
 * Zuari (goan, João Da Mata)
 
-<a name="shops-and-commerce-in-general"></a>
+
 ## Shops and commerce in general
 
 * [LX Factory](https://foursquare.com/v/lx-factory/4b3cda52f964a520428825e3?ref=nuggets)
 
-<a name="places-to-work"></a>
+
 ## Places to work
 
 ### Lx Factory
-- Café na Fábrica, coffee shop
-- Slow coffee, coffee shop
-- Ler devagar, coffee shop
+- [Café na Fábrica](https://www.zomato.com/pt/grande-lisboa/caf%C3%A9-da-f%C3%A1brica-alc%C3%A2ntara-lisboa), coffee shop
+- [Wish Slow coffee](https://www.zomato.com/pt/grande-lisboa/wish-alc%C3%A2ntara-lisboa), coffee shop
+- [Ler devagar](https://www.zomato.com/pt/grande-lisboa/ler-devagar-alc%C3%A2ntara-lisboa), coffee shop
 
 ### Alfama 
-- Cruzes Credo, coffee shop
-- Pois Café, coffee shop
-- Caso SÉrio, coffee shop
+- [Cruzes Credo](https://www.zomato.com/pt/grande-lisboa/cruzes-credo-s%C3%A9-lisboa), coffee shop
+- [Pois Café](https://www.zomato.com/pt/grande-lisboa/pois-caf%C3%A9-1-s%C3%A9-lisboa), coffee shop
+- [Caso SÉrio](https://www.zomato.com/pt/grande-lisboa/caso-s%C3%A9rio-s%C3%A9-lisboa), coffee shop
 
 ### Almirante Reis
 
-- Brick café, coffee shop
+- [Brick café](https://www.zomato.com/pt/grande-lisboa/brick-1-anjos-lisboa), coffee shop
 
 ### Avenidas Novas
 
@@ -133,24 +148,24 @@ This page is a tourist guide to the beautiful city of Lisbon. It's on GitHub bec
 ### São João de Deus
 - Leitaria da Quinta do Paço
 
-<a name="wifi-coffee-shops"></a>
+
 # Wifi Coffee Shops
 
 At LX Factory there are several coffee shops with wi-fi and they are not so busy as to be  bothered by you staying there working or studying.
 
-* Café na Fábrica
-* Slow Coffee
-* Ler Devagar
+* [Café na Fábrica](https://www.zomato.com/pt/grande-lisboa/caf%C3%A9-da-f%C3%A1brica-alc%C3%A2ntara-lisboa)
+* [Wish Slow Coffee](https://www.zomato.com/pt/grande-lisboa/wish-alc%C3%A2ntara-lisboa)
+* [Ler devagar](https://www.zomato.com/pt/grande-lisboa/ler-devagar-alc%C3%A2ntara-lisboa)
 
-Avoid the meal times, as that is when they do most of their profit.
+Avoid the meal times to be working there, as that is when they do most of their profit.
 
 Places outside of LX Factory: 
 
-* Brick café 
+* [Brick café](https://www.zomato.com/pt/grande-lisboa/brick-1-anjos-lisboa)
 * Strudel 
 * Fabrica de Sabores near Avenida Defensores de Chaves;
 * Padaria do Bairro in Avenidas Novas;
-* Cruzes Credo
+* [Cruzes Credo](https://www.zomato.com/pt/grande-lisboa/cruzes-credo-s%C3%A9-lisboa)
 * Leitaria, Avenida João XXI
-* Copenhagen Coffee Lab perto da praça das flores;
-* Botequim da Graça 
+* [Copenhagen Coffee Lab](https://www.zomato.com/grande-lisboa/copenhagen-coffee-lab-pr%C3%ADncipe-real-lisboa)
+* [Botequim da Graça](https://www.zomato.com/grande-lisboa/botequim-gra%C3%A7a-lisboa) 
