@@ -44,12 +44,12 @@ This page is a tourist guide to the beautiful city of Lisbon. [It's on GitHub be
 * [MUDE - Museu do Design e Moda](http://www.mude.pt)
 * [Museu da Electricidade](https://foursquare.com/visitanteriso)
 * [Museu de Arte Antiga](http://www.museudearteantiga.pt)
-* [Calouste Gulbenkian Museum] [8]
-* [Berardo Museum] [9]
+* [Calouste Gulbenkian Museum](http://www.gulbenkian.pt/Institucional/pt/Homepage)
+* [Berardo Museum](http://www.museuberardo.pt/)
 
 ## Parks and nature
 * [Jardim da Fundação Calouste Gulbenkian](https://foursquare.com/v/jardim-da-funda%C3%A7%C3%A3o-calouste-gulbenkian/4bd836cc35aad13ad54c90f3?ref=nuggets)
-* [Monsanto Forest Park][7]
+* [Monsanto Forest Park](https://en.wikipedia.org/wiki/Monsanto_Forest_Park)
 
 
 ## Restaurants and bars
@@ -171,27 +171,10 @@ Places outside of LX Factory:
 
 ## List of coolest neighbourhoods
 
-* [Alcântara][10]
-* [Alfama][11]
-* [Bairro Alto][12]
-* [Baixa/Chiado][13]
-* [Castelo][14]
-* [Mouraria][15]
-* [Principe Real][16]
-
-[1]: http://www.mude.pt
-[2]: http://www.lifecooler.com/artigo/comer/a-margem/364551/
-[3]: http://www.telecabinelisboa.pt/epages/2060-120119.sf/en_GB/?ObjectPath=/Shops/2060-120119/Categories/Sobre_Telecabine_Lisboa
-[4]: https://en.wikipedia.org/wiki/S%C3%A3o_Jorge_Castle
-[5]: https://pt.wikipedia.org/wiki/Elevador_da_Bica
-[6]: https://www.facebook.com/mercadodecampodeourique
-[7]: https://en.wikipedia.org/wiki/Monsanto_Forest_Park
-[8]:http://www.gulbenkian.pt/Institucional/pt/Homepage
-[9]: http://www.museuberardo.pt/
-[10]: http://www.golisbon.com/sight-seeing/sao-pedro-alcantara.html
-[11]: https://en.wikipedia.org/wiki/Alfama
-[12]: http://www.tripadvisor.com/Attraction_Review-g189158-d195105-Reviews-Bairro_Alto-Lisbon_Lisbon_District_Central_Portugal.html
-[13]: http://www.10best.com/destinations/portugal/lisbon/baixa-chiado/
-[14]: http://www.thelisbonconnection.com/walking-around-lisbon-castle-of-st-georges-picturesque-neighborhood-santa-cruz-mercearia-castello-cafe/
-[15]: http://www.thelisbonconnection.com/lisbon-tourist-guide-josephine-walk-in-area-mouraria-maze-of-narrow-moorish-style-streets-shopping-drinking-ginja-fado/
-[16]: http://www.golisbon.com/sight-seeing/principe-real.html
+* [Alcântara](http://www.golisbon.com/sight-seeing/sao-pedro-alcantara.html)
+* [Alfama](https://en.wikipedia.org/wiki/Alfama)
+* [Bairro Alto](http://www.tripadvisor.com/Attraction_Review-g189158-d195105-Reviews-Bairro_Alto-Lisbon_Lisbon_District_Central_Portugal.html)
+* [Baixa/Chiado](http://www.10best.com/destinations/portugal/lisbon/baixa-chiado/)
+* [Castelo](http://www.thelisbonconnection.com/walking-around-lisbon-castle-of-st-georges-picturesque-neighborhood-santa-cruz-mercearia-castello-cafe/)
+* [Mouraria](http://www.thelisbonconnection.com/lisbon-tourist-guide-josephine-walk-in-area-mouraria-maze-of-narrow-moorish-style-streets-shopping-drinking-ginja-fado/)
+* [Principe Real](http://www.golisbon.com/sight-seeing/principe-real.html)
