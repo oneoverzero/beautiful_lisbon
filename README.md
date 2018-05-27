@@ -1,10 +1,10 @@
-+++
-categories = ["Lisbon"]
-layout = "post"
-date = "2017-02-05T16:02:56Z"
-featured_image = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/CastleSaintGeorge.jpg/2880px-CastleSaintGeorge.jpg"
-title = "Beautiful Lisbon"
-+++
+---
+categories. ["Lisbon"]
+layout: "post"
+date: "2017-02-05T16:02:56Z"
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/CastleSaintGeorge.jpg/2880px-CastleSaintGeorge.jpg"
+title: "Beautiful Lisbon"
+---
 
 # Beautiful Lisbon
 
@@ -126,7 +126,6 @@ This page is a tourist guide to the beautiful city of Lisbon. [It's on GitHub be
 
 ### Avenidas Novas
 
-- Strudel, bakery
 - Fábrica de sabores, bakery
 - Padaria do bairro nas avenidas novas; 
 
@@ -162,7 +161,6 @@ Avoid the meal times to be working there, as that is when they do most of their 
 Places outside of LX Factory: 
 
 * [Brick café](https://www.zomato.com/pt/grande-lisboa/brick-1-anjos-lisboa)
-* Strudel 
 * Fabrica de Sabores near Avenida Defensores de Chaves;
 * Padaria do Bairro in Avenidas Novas;
 * [Cruzes Credo](https://www.zomato.com/pt/grande-lisboa/cruzes-credo-s%C3%A9-lisboa)
